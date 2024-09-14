@@ -1,0 +1,1 @@
+# gaminng_infra_tfcode_for_gcp_n_aws
